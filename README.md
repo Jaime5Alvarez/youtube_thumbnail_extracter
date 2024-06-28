@@ -10,7 +10,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd cd youtube_thumbnail_extracter/
+  cd youtube_thumbnail_extracter/
 ```
 
 Install dependencies
