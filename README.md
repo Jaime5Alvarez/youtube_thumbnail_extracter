@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Jaime5Alvarez/youtube_thumbnail_extracter.git 
 ```
 
 Go to the project directory
